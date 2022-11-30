@@ -1,4 +1,4 @@
-# data-structures-and-algorithms
+# Data Structures & Algorithms
 
 Hi!
 
